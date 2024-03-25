@@ -29,7 +29,7 @@ BFS distance: 2389
 ## Завдання 3
 
 Ркзультати роботи алгоритму Дейкстри наведено в таблиці нижче. Як ми бачимо, найкраший результат буде в третьому варіанті (7707 км) 
-
+|               |               |                 |                  |                  |                  |               |               |               |       |
 |:--------------|:--------------|:----------------|:-----------------|:-----------------|:-----------------|:--------------|:--------------|:--------------|------:|
 | Kyiv (0)      | Berlin (1292) | Prague (1389)   | Vienna (1514)    | Amsterdam (1869) | Paris (2170)     | London (2226) | Rome (2280)   | Madrid (3224) | 15964 |
 | Paris (0)     | London (344)  | Amsterdam (701) | Berlin (878)     | Madrid (1054)    | Prague (1158)    | Vienna (1402) | Rome (1423)   | Kyiv (2170)   |  9130 |
@@ -40,5 +40,4 @@ BFS distance: 2389
 | Amsterdam (0) | London (357)  | Berlin (577)    | Paris (701)      | Prague (708)     | Vienna (959)     | Rome (1725)   | Madrid (1755) | Kyiv (1869)   |  8651 |
 | Prague (0)    | Vienna (251)  | Berlin (280)    | Amsterdam (708)  | Rome (1017)      | London (1065)    | Paris (1158)  | Kyiv (1389)   | Madrid (2212) |  8080 |
 | Vienna (0)    | Prague (251)  | Berlin (524)    | Rome (766)       | Amsterdam (959)  | London (1316)    | Paris (1402)  | Kyiv (1514)   | Madrid (2456) |  9188 |
-
 
