@@ -45,12 +45,11 @@ def distance(path):
     return total
 
 
-
 if __name__ == "__main__":
-    test1 =  dfs("Kyiv")
+    test1 = dfs("Kyiv")
     print("DFS order:", test1)
-    print("DFS distance:", distance(test1), end='\n\n')
+    print("DFS distance:", distance(test1), end="\n\n")
 
-    test2 =  bfs("Kyiv")
+    test2 = bfs("Kyiv")
     print("BFS order:", test2)
     print("BFS distance:", distance(test2))
